@@ -1,5 +1,39 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=2AF71D&multiline=true&width=600&separator=%3C&lines=whosThisGuy();%3C%22Nathan+Patterson%2C+Software+Engineer+%3AD%22)](https://git.io/typing-svg)
 
+---
+**`Multifaceted Creator (Software Engineer/Music Producer)`**
+
+I’m a software engineer driven by a desire to make an impact and share knowledge through technology. I started programming at a young age, creating DSP algorithms to provision the audio enhancements I needed for mixing and mastering my music.
+
+Now, I lead the development of the GETT platform at Systems Unlimited, focusing on delivering meaningful solutions. In my free time, I contribute to Polybase, an open-source tool that simplifies multi-database complexity.
+[Check out Polybase](https://github.com/oslabs-beta/Polybase)
+
+<style>
+@keyframes swayBorder {
+  0% {
+    border-color: #E03A3E;  /* Pistons red */
+  }
+  50% {
+    border-color: #1D428A;  /* Pistons blue */
+  }
+  100% {
+    border-color: #E03A3E;  /* Pistons red */
+  }
+}
+
+.sway-border {
+  animation: swayBorder 10s infinite;
+  border: 5px solid #E03A3E;  /* Initial border color (Pistons red) */
+  border-radius: 15px;  /* Rounded corners */
+}
+</style>
+
+<img class="sway-border" align="right" width="200px" alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhrODIzb3k4MjZ1dDZxamZ2N2QxZmpiMnQzbTYybzV1b3FpYXA5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tta1Zc3Lu4NOiOpTB9/giphy.webp" />
+
+
+
+
+
 ### 🧰 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,html,css,swift,react,nodejs,express,nextjs,aws,docker,mongodb,postgresql,redis,gql,jest,githubactions,tailwind,mui,webpack&perline=10)](https://skillicons.dev)
