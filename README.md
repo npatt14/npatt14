@@ -3,11 +3,10 @@
 ---
 **`Multifaceted Creator (Software Engineer/Music Producer)`**
 
-I’m a software engineer driven by a desire to make an impact and share knowledge through technology. I started programming at a young age, creating DSP algorithms to provision the audio enhancements I needed for mixing and mastering my music.
+I’m a software engineer driven by a desire to make an impact and share knowledge through technology. I started programming at a young age, creating DSP algorithms to provision audio mixing plugins I needed for mixing and mastering my music.
 
 Now, I lead the development of the GETT platform at Systems Unlimited, focusing on delivering meaningful solutions. In my free time, I contribute to Polybase, an open-source tool that simplifies multi-database complexity.
 [Check out Polybase](https://github.com/oslabs-beta/Polybase)
-
 
 <img class="sway-border" align="right" width="200px" alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhrODIzb3k4MjZ1dDZxamZ2N2QxZmpiMnQzbTYybzV1b3FpYXA5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tta1Zc3Lu4NOiOpTB9/giphy.webp" />
 
