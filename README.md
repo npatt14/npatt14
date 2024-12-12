@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=2AF71D&multiline=true&width=600&separator=%3C&lines=whosThisGuy();%3C%22Nathan+Patterson%2C+Software+Engineer+%3AD%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F72C&width=435&separator=%3C&lines=whosThisGuy();)](https://git.io/typing-svg)
 
 ---
 **`Multifaceted Creator (Software Engineer/Music Producer)`**
