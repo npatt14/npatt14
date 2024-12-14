@@ -20,7 +20,7 @@ Dm me! Pm me! Email me! Whatever it is - Lets talk tech :D
     <a href="https://www.linkedin.com/in/nathan-patterson-aba798251/">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="35" height="35"/>
     </a>
-        <a href="mailto:imnathanpatterson@gmail.com">
+        <a href="mailto:nathanpattersondev@gmail.com">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" width="35" height="35"/>
     </a>
     <a href="https://medium.com/@natedevs">
