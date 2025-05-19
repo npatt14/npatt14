@@ -1,10 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F72C&width=435&separator=%3C&lines=whosThisGuy();)](https://git.io/typing-svg)
-
----
-
-<div style="text-align: center;">
-
-
 **`Software Engineer`**
 
 [Check out Polybase](https://github.com/oslabs-beta/Polybase)
