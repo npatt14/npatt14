@@ -7,9 +7,6 @@
 
 **`Software Engineer`**
 
-I’m driven by a desire to make an impact. I started programming at a young age, creating DSP algorithms to provision audio plugins I needed for mixing and mastering my music.
-
-Now, I lead the development of the GETT platform at Systems Unlimited, focusing on delivering meaningful solutions. In my free time, I contribute to Polybase, an open-source tool that simplifies multi-database complexity.  
 [Check out Polybase](https://github.com/oslabs-beta/Polybase)
 
 
