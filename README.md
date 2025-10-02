@@ -7,7 +7,7 @@
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,html,css,swift,react,nodejs,express,nextjs,aws,docker,mongodb,postgresql,redis,gql,jest,githubactions,tailwind,mui,webpack&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,swift,html,css,react,nodejs,nextjs,aws,docker,mongodb,postgresql,redis,gql,webpack&perline=20)](https://skillicons.dev)
 
 ---
 
