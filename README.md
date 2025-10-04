@@ -12,7 +12,6 @@
 ---
 
 ### 💬 Connect with me!
-Dm me! Pm me! Email me! Whatever it is - Let's talk tech :D  
 <div>
     <a href="https://www.linkedin.com/in/nathan-patterson-aba798251/">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="35" height="35"/>
